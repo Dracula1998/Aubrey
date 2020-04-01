@@ -121,4 +121,9 @@ async def handle_msg(context):
                         await bot.send(sender, rspMsg)
 
 
+@bot.on_message('group')
+async def handle_msg(context):
+    print(context)
+
+
 bot.run(host='127.0.0.1', port=8080)
