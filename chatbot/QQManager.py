@@ -124,6 +124,16 @@ async def handle_msg(context):
 @bot.on_message('group')
 async def handle_msg(context):
     print(context)
+    group_id = str(context['group_id'])
+    time = str(context['time'])
+    user_id = str(context['sender']['user_id'])
+    nickname = context['sender']['nickname']
+    role = context['sender']['role']
+    message = context['message']
+    file = '../group_chat_log/' + group_id + '.txt'
+    line = [time, user_id, nickname, role, message]
+    with open(file, 'a+', encoding='utf-8') as f:
+        f.writelines(';;'.join(line) + '\n')
 
 
 bot.run(host='127.0.0.1', port=8080)

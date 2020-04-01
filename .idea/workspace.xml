@@ -2,21 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a43a1278-dcdb-4a94-abb6-5cea15a5ae85" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CQA-tuling/酷Q Air/conf/CQP.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/CQA-tuling/酷Q Air/conf/CQP.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CQA-tuling/酷Q Air/data/2180057790/cache.db" beforeDir="false" afterPath="$PROJECT_DIR$/CQA-tuling/酷Q Air/data/2180057790/cache.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CQA-tuling/酷Q Air/data/2180057790/eventv2.db" beforeDir="false" afterPath="$PROJECT_DIR$/CQA-tuling/酷Q Air/data/2180057790/eventv2.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CQA-tuling/酷Q Air/data/2180057790/logv2_202004.db" beforeDir="false" afterPath="$PROJECT_DIR$/CQA-tuling/酷Q Air/data/2180057790/logv2_202004.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CQA-tuling/酷Q Air/data/2180057790/session.dat" beforeDir="false" afterPath="$PROJECT_DIR$/CQA-tuling/酷Q Air/data/2180057790/session.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CQA-tuling/酷Q Air/data/app/com.coxxs.start/start.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/CQA-tuling/酷Q Air/data/app/com.coxxs.start/start.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CQA-tuling/酷Q Air/data/tmp/capp/e8481e2ff0c430a3/com.coxxs.music.cpk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CQA-tuling/酷Q Air/data/tmp/capp/e8481e2ff0c430a3/com.coxxs.start.cpk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CQA-tuling/酷Q Air/data/tmp/capp/e8481e2ff0c430a3/com.coxxs.status.cpk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CQA-tuling/酷Q Air/data/tmp/capp/e8481e2ff0c430a3/com.coxxs.tuling123.cpk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CQA-tuling/酷Q Air/data/tmp/capp/e8481e2ff0c430a3/io.github.richardchien.coolqhttpapi.cpk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chatbot/data/roles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/chatbot/data/roles.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/roles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resources/roles.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot/QQManager.py" beforeDir="false" afterPath="$PROJECT_DIR$/chatbot/QQManager.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,9 +63,6 @@
       <module name="aubrey" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chatbot" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -140,22 +126,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="586" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583556983348" />
-    <state width="1899" height="385" key="GridCell.Tab.0.bottom" timestamp="1585734184103">
+    <state width="1899" height="385" key="GridCell.Tab.0.bottom" timestamp="1585740211941">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="385" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585734184103" />
-    <state width="1899" height="385" key="GridCell.Tab.0.center" timestamp="1585734184103">
+    <state width="1899" height="385" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585740211941" />
+    <state width="1899" height="385" key="GridCell.Tab.0.center" timestamp="1585740211940">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="385" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585734184103" />
-    <state width="1899" height="385" key="GridCell.Tab.0.left" timestamp="1585734184103">
+    <state width="1899" height="385" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585740211940" />
+    <state width="1899" height="385" key="GridCell.Tab.0.left" timestamp="1585740211940">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="385" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585734184103" />
-    <state width="1899" height="385" key="GridCell.Tab.0.right" timestamp="1585734184103">
+    <state width="1899" height="385" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585740211940" />
+    <state width="1899" height="385" key="GridCell.Tab.0.right" timestamp="1585740211940">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="385" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585734184103" />
+    <state width="1899" height="385" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585740211940" />
     <state x="401" y="110" key="SettingsEditor" timestamp="1583457128954">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
