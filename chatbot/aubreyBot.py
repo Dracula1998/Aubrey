@@ -292,6 +292,7 @@ def processMsg(sentence):
         role = roleDict.get(senderQQ, None)
         if not role: continue
         if senderQQ not in MiscreantDict:
+            miscreant = MiscreantAccount()
             if role == "account":
                 miscreant = MiscreantAccount()
             elif role == "scalping":

@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a43a1278-dcdb-4a94-abb6-5cea15a5ae85" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CQA-tuling/酷Q Air/conf/CQP.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/CQA-tuling/酷Q Air/conf/CQP.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chatbot/QQManager.py" beforeDir="false" afterPath="$PROJECT_DIR$/chatbot/QQManager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CQA-tuling/酷Q Air/data/2180057790/cache.db" beforeDir="false" afterPath="$PROJECT_DIR$/CQA-tuling/酷Q Air/data/2180057790/cache.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CQA-tuling/酷Q Air/data/2180057790/eventv2.db" beforeDir="false" afterPath="$PROJECT_DIR$/CQA-tuling/酷Q Air/data/2180057790/eventv2.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CQA-tuling/酷Q Air/data/2180057790/logv2_202004.db" beforeDir="false" afterPath="$PROJECT_DIR$/CQA-tuling/酷Q Air/data/2180057790/logv2_202004.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CQA-tuling/酷Q Air/data/2180057790/session.dat" beforeDir="false" afterPath="$PROJECT_DIR$/CQA-tuling/酷Q Air/data/2180057790/session.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot/Miscreants.py" beforeDir="false" afterPath="$PROJECT_DIR$/chatbot/Miscreants.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot/aubreyBot.py" beforeDir="false" afterPath="$PROJECT_DIR$/chatbot/aubreyBot.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,16 +29,17 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/chatbot" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\GitHub\Aubrey" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\aubrey\chatbot" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GitHub\Aubrey\chatbot" />
+      <recent name="D:\GitHub\Aubrey" />
     </key>
   </component>
   <component name="RunManager" selected="Python.QQManager">
@@ -126,30 +131,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="586" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583556983348" />
-    <state width="1899" height="385" key="GridCell.Tab.0.bottom" timestamp="1585740211941">
+    <state width="1899" height="385" key="GridCell.Tab.0.bottom" timestamp="1585747929984">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="385" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585740211941" />
-    <state width="1899" height="385" key="GridCell.Tab.0.center" timestamp="1585740211940">
+    <state width="1899" height="385" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585747929984" />
+    <state width="1899" height="385" key="GridCell.Tab.0.center" timestamp="1585747929984">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="385" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585740211940" />
-    <state width="1899" height="385" key="GridCell.Tab.0.left" timestamp="1585740211940">
+    <state width="1899" height="385" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585747929984" />
+    <state width="1899" height="385" key="GridCell.Tab.0.left" timestamp="1585747929984">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="385" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585740211940" />
-    <state width="1899" height="385" key="GridCell.Tab.0.right" timestamp="1585740211940">
+    <state width="1899" height="385" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585747929984" />
+    <state width="1899" height="385" key="GridCell.Tab.0.right" timestamp="1585747929984">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="385" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585740211940" />
+    <state width="1899" height="385" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585747929984" />
     <state x="401" y="110" key="SettingsEditor" timestamp="1583457128954">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="401" y="110" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583457128954" />
-    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1583502939492">
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1585746306109">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583502939492" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585746306109" />
     <state x="645" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1583454871864">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
